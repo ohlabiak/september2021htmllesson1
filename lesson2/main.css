@@ -1,0 +1,29 @@
+
+#biographi{
+    background: #d90b59;
+    color: darkgreen;
+}
+H1, H2, p {
+    text-align: center;
+}
+p.wherefrom{
+    font-size: 20px;
+    text-align: justify;
+}
+.films{
+    color: #75e017;
+}
+li {
+    list-style: none;
+    background: darkorange;
+}
+a:hover {
+    color: green;
+}
+H1 {
+    background: aqua; color: #75e017;
+}
+img {
+    border: solid darkred 7px;
+    margin-left: 550px;
+}
