@@ -1,0 +1,17 @@
+div {
+    text-align: center;
+}
+
+img {
+    border: 5px solid #a9e50d;
+    border-radius: 45px;
+}
+a:hover {
+    color: green;
+}
+.wherefrom {
+    text-align: justify;
+}
+.films {
+    text-align: justify;
+}
