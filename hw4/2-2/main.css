@@ -1,5 +1,46 @@
+
 .wrap {
     display: flex;
-
+    flex-direction: column;
+    width: 310px;
+    height: 450px;
+    row-gap: 5px;
 }
+.a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.widgest {
+    height: 95px;
+    background: #a9e50d;
+    display: flex;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+}
+.bigw {
+    height: 100px;
+    width: 100px;
+    background: darkorange;
+}
+.biggerw{
+    height: 100px;
+    width: 100px;
+    background: darkorange;
+}
+.hugew {
+    height: 100px;
+    width: 100px;
+    background: darkorange;
+}
+.contact {
+    background: aqua;
+    height: 250px;
+}
+
+
 
