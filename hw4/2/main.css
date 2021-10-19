@@ -1,0 +1,42 @@
+.wrap {
+    background: #a9e50d;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+
+.a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    width: 500px;
+    height: 50px;
+    background: #d90b59;
+}
+.nav {
+    background: darkorange;
+    height: 50px;
+}
+
+.content {
+    height: 300px;
+    background: red;
+    display: flex;
+
+}
+.main {
+    background: blue;
+    height: 300px;
+    width: 400px;
+}
+.aside {
+    background: blueviolet;
+    height: 300px;
+    width: 100px;
+}
+.footer {
+    height: 100px;
+}
