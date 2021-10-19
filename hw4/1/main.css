@@ -1,0 +1,29 @@
+.wrap {
+    background: silver;
+    width: 700px;
+    height: 400px;
+}
+.a {
+    background: #75e017;
+    height: 100px;
+}
+.bc {
+    background: red;
+    width: 700px;
+    height: 300px;
+    display: flex;
+}
+
+.b {
+    background: aqua;
+    width: 500px;
+    height:300px;
+}
+
+.c {
+    background: blue;
+    width: 200px;
+    height: 300px;
+
+
+}
