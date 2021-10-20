@@ -31,7 +31,7 @@
     row-gap: 10px;
 }
 
-#post {
+#post1, #post2 {
     width: 200px;
     height: 145px;
     background: aqua;
