@@ -1,0 +1,48 @@
+.container {
+    width: 300px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    row-gap: 5px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.a {
+    display: flex;
+    background: blue;
+    justify-content: center;
+    align-items: center;
+}
+.header {
+    width: 100%;
+    height: 250px;
+    display: flex;
+    column-gap: 3px;
+}
+
+.home {
+    width: 150px;
+    height: 250px;
+}
+.about {
+    width: 150px;
+    height: 250px;
+}
+.kabobs {
+    height: 150px;
+}
+.footer {
+    display: flex;
+    column-gap: 3px;
+}
+
+.item {
+    height: 150px;
+    width: 33%;
+
+}
