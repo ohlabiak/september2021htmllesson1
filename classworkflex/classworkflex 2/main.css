@@ -39,8 +39,8 @@
 .item {
     flex-grow: 1;
     background: lightgray;
-    width: 100px;
-    height: 90px;
+    width: 32%;
+    height: 100px;
 }
 .h {
     background: lightgray;
