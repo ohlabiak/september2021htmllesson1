@@ -1,0 +1,43 @@
+.container {
+    width: 300px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    row-gap: 5px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.bg {
+    background: blue;
+}
+.d-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header {
+    width: 100%;
+    height: 250px;
+    display: flex;
+    column-gap: 3px;
+}
+.header__right, .header__left {
+    width: 150px;
+}
+.centr__block {
+    height: 150px;
+}
+
+.footer {
+    display: flex;
+    column-gap: 3px;
+}
+
+.footer__item {
+    height: 150px;
+    width: 33%;
+}
