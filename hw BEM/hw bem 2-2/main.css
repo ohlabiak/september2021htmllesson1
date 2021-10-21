@@ -1,46 +1,34 @@
-
 .wrap {
+    margin: 0 auto;
     display: flex;
     flex-direction: column;
     width: 310px;
     height: 450px;
     row-gap: 5px;
 }
-.a {
+.t-centr {
     display: flex;
     align-items: center;
     justify-content: center;
+    color: white;
 }
-
-.widgest {
+.header{
     height: 95px;
-    background: #a9e50d;
+}
+.header, .footer {
+    background: blue;
     display: flex;
 }
-
 .main {
     display: flex;
     justify-content: space-between;
 }
-.bigw {
+
+.main .item {
     height: 100px;
     width: 100px;
-    background: darkorange;
+    background: darkblue;
 }
-.biggerw{
-    height: 100px;
-    width: 100px;
-    background: darkorange;
-}
-.hugew {
-    height: 100px;
-    width: 100px;
-    background: darkorange;
-}
-.contact {
-    background: aqua;
+div.footer {
     height: 250px;
 }
-
-
-
