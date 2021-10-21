@@ -1,0 +1,31 @@
+.wrap {
+    margin: 0 auto;
+    width: 700px;
+    box-sizing: border-box;
+}
+.text_centr {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bcknd {
+    background: silver;
+}
+
+.header {
+    margin-bottom: 5px;
+    height: 100px;
+}
+.container {
+    height: 300px;
+    display: flex;
+    column-gap: 5px;
+}
+
+.main_left {
+    width: 500px;
+}
+
+.main_right {
+    width: 200px;
+}
