@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main__top__grid {
+    display: flex;
+    background: aqua;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.main__top__grid__products {
+    display: flex;
+
+}
+
+.main__top__grid__product__item {
+    flex-grow: 1;
+    width:;
+}
+
+.main__top__grid__img {
+    height: 200px;
+    background: darkblue;
+    border-radius: 15px;
+    width: 200px;
+    flex-grow: 1;
+}
