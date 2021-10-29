@@ -52,15 +52,14 @@ table {
 
 .header {
     height: 100vh;
-
     background: url("../image/bg.png") no-repeat center/cover;
 }
 
 .header__top {
     padding-top: 50px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+    /*display: flex;*/
+    /*align-items: center;*/
+    /*justify-content: space-between;*/
     color: #FFFFFF;
 }
 
