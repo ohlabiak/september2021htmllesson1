@@ -100,8 +100,8 @@
 
 .header__top {
     padding-bottom: 20px;
-    border-bottom: background: #FFFFFF;
-    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);;
+    border-bottom: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
 }
 
 .header__top__contact__information {
@@ -114,7 +114,7 @@
 }
 
 .header__top__input__information button {
-    color: #FFFFFF
+    color: #FFFFFF;
     background: #005BB9;
     border-radius: 0px 6px 6px 0px;
 }
@@ -148,7 +148,6 @@
     line-height: 21px;
     color: #FFFFFF;
     margin-right: 30px;
-
 }
 
 .image__menu {
@@ -504,10 +503,6 @@ h1 {
 #clutch__old__price {
     font-size: 16px;
     line-height: 19px;
-}
-
-#overrunning__clutch__price {
-
 }
 
 .twins {
